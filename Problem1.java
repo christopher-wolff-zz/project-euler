@@ -1,7 +1,7 @@
 /**
  * https://projecteuler.net/problem=1
  */
-public class MultiplesOf3And5 {
+public class Problem1 {
 
     /**
      * Calculates the numbers below n that are mutiples of 3 or 5
