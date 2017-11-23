@@ -1,10 +1,12 @@
 /**
+ * Problem 1: Multiples of 3 and 5
+ *
  * https://projecteuler.net/problem=1
  */
 public class Problem1 {
 
     /**
-     * Calculates the numbers below n that are mutiples of 3 or 5
+     * Returns the sum of the numbers below n that are mutiples of 3 or 5
      */
     public static int solve(int n) {
         int count = 0;
