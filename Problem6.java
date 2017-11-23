@@ -3,7 +3,7 @@
  *
  * https://projecteuler.net/problem=6
  */
- public class Problem4 {
+ public class Problem6 {
 
      /**
       * Returns the positive difference between the sum of the squares of the first n natural
