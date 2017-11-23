@@ -24,7 +24,8 @@
      }
 
      public static void main(String[] args) {
-         System.out.println(solve(4000000));
+         int input = (args.length > 0) ? Integer.valueOf(args[0]) : 4000000;
+         System.out.println(solve(input));
      }
 
  }
