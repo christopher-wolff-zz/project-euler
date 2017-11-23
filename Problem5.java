@@ -6,7 +6,7 @@
  public class Problem5 {
 
      /**
-      * Returns the smallest multiple of the numbers between 1 and n
+      * Returns the smallest multiple of the numbers 1 to n
       */
      public static int solve(int n) {
          int smallest = n;
