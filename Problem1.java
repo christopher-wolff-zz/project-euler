@@ -19,7 +19,8 @@ public class Problem1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(solve(1000));
+        int input = (args.length > 0) ? Integer.valueOf(args[0]) : 1000;
+        System.out.println(solve(input));
     }
 
 }
