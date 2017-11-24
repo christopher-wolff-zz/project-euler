@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Problem 11: Summation of primes
+ * Problem 11: Largest product in a grid
  *
  * https://projecteuler.net/problem=11
  */
