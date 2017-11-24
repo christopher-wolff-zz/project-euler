@@ -4,7 +4,6 @@
  * https://projecteuler.net/problem=3
  */
 public class Problem3 {
-
     /**
      * Returns the largest prime factor of n
      */
@@ -20,8 +19,7 @@ public class Problem3 {
     }
 
     public static void main(String[] args) {
-        long input = (args.length > 0) ? Integer.valueOf(args[0]) : 600851475143L;
+        long input = (args.length > 0) ? Long.valueOf(args[0]) : 600851475143L;
         System.out.println(solve(input));
     }
-
 }
